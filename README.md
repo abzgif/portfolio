@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Personal Portfolio Website</h1>
+<h1>Personal Portfolio Website - v0.1.0</h1>
 
 <h2>
   <a href="https://abzgif.github.io/">abzgif.github.io</a>
@@ -17,7 +17,6 @@
 <a href="https://github.com/abzgif/abzgif.github.io"><img src="https://sloc.xyz/github/abzgif/abzgif.github.io" alt="Total lines"></a>
 <a href="https://github.com/abzgif/abzgif.github.io"><img src="https://visitor-badge.laobi.icu/badge?page_id=abzgif/abzgif.github.io" alt="Number of Visitors"></a>
 <a href="https://github.com/abzgif/abzgif.github.io/stargazers"><img src="https://img.shields.io/github/stars/abzgif/abzgif.github.io" alt="github stars"></a>
-<a href="https://github.com/abzgif/abzgif.github.io/network/members"><img src="https://img.shields.io/github/forks/abzgifabzgif.github.io" alt="github forks"></a>
 <a href="https://abzgif.github.io/"><img src="https://img.shields.io/badge/website-up-yellow" alt="website up"></a>
 
 </div>
